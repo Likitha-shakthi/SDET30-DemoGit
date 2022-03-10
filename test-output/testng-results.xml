@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="176" started-at="2022-03-10T09:47:23Z" finished-at="2022-03-10T09:47:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="176" started-at="2022-03-10T09:47:23Z" finished-at="2022-03-10T09:47:23Z">
+      <class name="demoGit.Demo">
+        <test-method status="PASS" signature="demo()[pri:0, instance:demoGit.Demo@56f4468b]" name="demo" duration-ms="36" started-at="2022-03-10T09:47:23Z" finished-at="2022-03-10T09:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- demoGit.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
