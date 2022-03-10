@@ -7,6 +7,8 @@ public class Demo {
 	public void demo()
 	{
 		System.out.println("User1 - framework");
+		
+		System.out.println("user2 - framework");
 	}
 
 }
